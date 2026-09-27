@@ -15,7 +15,7 @@ class PersonalInfo:
     tagline: str = "Architecting intelligent security verification layers, predictive environmental telemetry, and scalable rural AI solutions."
     status: str = "OPEN TO AI/ML ROLES & RESEARCH COLLABORATIONS"
     bio: str = (
-        "Pre-final year Artificial Intelligence & Machine Learning engineer at Sri Sairam College of Engineering, "
+        "Final year Artificial Intelligence & Machine Learning engineer at Sri Sairam College of Engineering, "
         "Bengaluru. Author & Lead Researcher of an innovative SBERT-based UPI impersonation defense framework. "
         "Experienced in building end-to-end deep learning pipelines, from time-series IoT flood prediction to "
         "low-bandwidth rural agro-vision platforms."
