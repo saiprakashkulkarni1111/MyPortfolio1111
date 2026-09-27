@@ -7,7 +7,7 @@ export const PERSONAL_INFO = {
   location: "Bengaluru, India",
   tagline: "Architecting intelligent security verification layers, predictive environmental telemetry, and scalable rural AI solutions.",
   status: "OPEN TO AI/ML ROLES & RESEARCH COLLABORATIONS",
-  bio: "Pre-final year Artificial Intelligence & Machine Learning engineer at Sri Sairam College of Engineering, Bengaluru. Author & Lead Researcher of an innovative SBERT-based UPI impersonation defense framework. Experienced in building end-to-end deep learning pipelines, from time-series IoT flood prediction to low-bandwidth rural agro-vision platforms.",
+  bio: "Final year Artificial Intelligence & Machine Learning engineer at Sri Sairam College of Engineering, Bengaluru. Author & Lead Researcher of an innovative SBERT-based UPI impersonation defense framework. Experienced in building end-to-end deep learning pipelines, from time-series IoT flood prediction to low-bandwidth rural agro-vision platforms.",
   avatarFallback: "SK"
 };
 
