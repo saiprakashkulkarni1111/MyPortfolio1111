@@ -1,4 +1,5 @@
 ⚡ Saiprakash Kulkarni — AI & ML Engineering Portfolio
+
 ![Image](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)
 ![Image](https://img.shields.io/badge/FastAPI-0.110%2B-009688.svg?logo=fastapi&logoColor=white)
 ![Image](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C.svg?logo=pytorch&logoColor=white)
@@ -6,10 +7,12 @@
 ![Image](https://img.shields.io/badge/TypeScript-5.x-3178C6.svg?logo=typescript&logoColor=white)
 ![Image](https://img.shields.io/badge/TailwindCSS-Cyberpunk%20HUD-38B2AC.svg?logo=tailwind-css&logoColor=white)
 ![Image](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Applied Deep Learning & NLP Researcher | AI & Machine Learning Engineer
 Bengaluru, India • saiprakashkulkarni494@gmail.com • LinkedIn • GitHub
 🌟 Executive Summary
 Interactive, high-performance portfolio and research showcase engineered for Saiprakash Kulkarni — AI & Machine Learning Engineer. Features deep learning interactive telemetry simulators, a cyberpunk command HUD, 3D Canvas visualizers, an ATS-grade resume exporter, and a pure Python backend alongside a modern React/TypeScript frontend.
+
 🔬 Featured Research & Publications
 Enhancing UPI Security Through Intelligent Recipient Verification
 Lead Author & Researcher — April 2026 (Bengaluru, India)
@@ -17,18 +20,23 @@ Algorithmic Defense: Employs Sentence-BERT (SBERT) semantic embeddings and Cosin
 Risk-Based Authentication (RBA): Leverages passive device telemetry and anomaly heuristics to impose dynamic cognitive friction (delays and verification challenges) on high-risk transfers.
 Regulatory Alignment: Fully aligned with Reserve Bank of India (RBI) cybersecurity directives for digital payment infrastructure.
 Live Simulator: Built directly into the portfolio with live risk-scoring visualization and test cases.
+
 🚀 Key Engineered Projects
+
 1. Smart Flood Early Warning System (MHEWS)
 IoT Telemetry & Predictive Deep Learning (Jan 2026 – Feb 2026)
 Architecture: Bi-directional LSTM networks predicting river basin surge levels across 6 to 24-hour predictive horizons.
 Metrics: 95.0% prediction accuracy with an ensemble XGBoost filter that eliminates 90% of false-alarm sensor artifacts.
 Interactive Console: Includes an on-screen simulation dashboard to adjust river levels, rainfall intensity, and reservoir outflow.
-2. Kisan Mitra (Agro-AI Platform)
+
+3. Kisan Mitra (Agro-AI Platform)
 Rural Vision Diagnostics & Multilingual NLP (June 2025 – July 2025)
 Accessibility First: Tailored for smallholder farmers with patchy connectivity, utilizing quantized MobileNet models (<120 KB payload).
 Voice Intelligence: Sub-450 ms latency bidirectional Kannada speech processing (STT & TTS) for non-English speakers.
 Integration: Live agricultural market (mandi) rate ingestion and automated crop disease remedies.
+
 📂 Project Architecture
+
 code
 Code
 MyPortfolio1111/
@@ -63,6 +71,7 @@ Option A: Running the Python Backend (backend_python/)
 The Python backend can run with standard library only (no pip packages needed) or with FastAPI:
 code
 Bash
+
 # 1. Navigate to the Python backend directory
 cd backend_python
 
